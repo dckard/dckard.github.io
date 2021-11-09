@@ -1250,6 +1250,7 @@ contact section
    text-transform: capitalize;
 }
 .contact-section .contact-item-inner p{
+   font-family: sans-serif;
    font-size: 16px;
    color: var(--text-black-600);
    line-height: 26px;
