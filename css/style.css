@@ -1257,7 +1257,7 @@ contact section
    margin:0;
    word-break: break-word;
 }
-.contact-section .contact-item-inner p{
+.contact-section .contact-item-inner a{
    color: var(--skin-color);
 }
 .contact-section .contact-form{
