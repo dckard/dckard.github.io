@@ -1251,6 +1251,7 @@ contact section
 }
 .contact-section .contact-item-inner p{
    font-family: 'Arial';
+   display: block;
    font-size: 16px;
    color: var(--text-black-600);
    line-height: 26px;
@@ -1258,6 +1259,7 @@ contact section
    word-break: break-word;
 }
 .contact-section .contact-item-inner a{
+   font-family: 'Arial';
    color: var(--skin-color);
 }
 .contact-section .contact-form{
