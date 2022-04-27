@@ -1,6 +1,6 @@
 document.addEventListener("contextmenu", function (e) {
     e.preventDefault();
-    alert('© 2022 | Dicky Ardian')
+    alert('Jangan iseng bro xD -Dikz')
 });
 
 document.onkeydown = function (e) {
